@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NationalPark_WebApp_116.props" />
+</Project>
